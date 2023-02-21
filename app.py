@@ -87,6 +87,6 @@ st.markdown('## Download Enriched CSV')
 st.download_button(
   label="Download data as CSV",
   data=convert_df_to_csv(df_res),
-  file_name='dmOpenAIgtm.csv',
+  file_name='lmemail.csv',
   mime='text/csv'
 )
