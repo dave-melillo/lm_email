@@ -8,8 +8,6 @@ import json
 from datetime import datetime
 import datetime as dt
 import streamlit as st
-import openai
-from bs4 import BeautifulSoup
 import json
     
 
